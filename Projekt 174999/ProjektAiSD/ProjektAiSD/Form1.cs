@@ -8,6 +8,7 @@ namespace ProjektAiSD
         {
             InitializeComponent();
             this.Text = "Gra w karty";
+            MessageBox.Show("Marceli Budny 174999");
         }
 
 
@@ -31,7 +32,7 @@ namespace ProjektAiSD
         }
         private void button2_Click(object sender, EventArgs e)
         {
-            if (!int.TryParse(textBox1.Text, out int liczbaG)|| liczbaG<1 || liczbaG > 10)
+            if (!int.TryParse(textBox1.Text, out int liczbaG)|| liczbaG<1)
             {
                 MessageBox.Show("Podaj poprawn¹ liczbê graczy. Maksymalna liczba = 10.");
                 return;
@@ -41,7 +42,7 @@ namespace ProjektAiSD
                 MessageBox.Show("Za ma³o kart w talii, aby rozdaæ ka¿demu graczowi 5 kart.");
                 return;
             }
-            receG = rozdajK(taliaK, liczbaG, 5);
+            receG = rozdajK(taliaK, liczbaG, 5); 
             listBox1.Items.Clear();
             for(int i = 0; i < receG.Count; i++)
             {

@@ -41,7 +41,7 @@
             // 
             // button1
             // 
-            button1.Location = new Point(12, 120);
+            button1.Location = new Point(12, 150);
             button1.Name = "button1";
             button1.Size = new Size(234, 53);
             button1.TabIndex = 0;
@@ -51,7 +51,7 @@
             // 
             // button2
             // 
-            button2.Location = new Point(12, 196);
+            button2.Location = new Point(12, 245);
             button2.Name = "button2";
             button2.Size = new Size(234, 53);
             button2.TabIndex = 1;
@@ -61,7 +61,7 @@
             // 
             // button3
             // 
-            button3.Location = new Point(12, 281);
+            button3.Location = new Point(12, 340);
             button3.Name = "button3";
             button3.Size = new Size(234, 53);
             button3.TabIndex = 2;
@@ -71,9 +71,9 @@
             // 
             // button4
             // 
-            button4.Location = new Point(12, 356);
+            button4.Location = new Point(308, 340);
             button4.Name = "button4";
-            button4.Size = new Size(234, 53);
+            button4.Size = new Size(409, 53);
             button4.TabIndex = 3;
             button4.Text = "Eksportuj do txt";
             button4.UseVisualStyleBackColor = true;
@@ -81,7 +81,7 @@
             // 
             // button5
             // 
-            button5.Location = new Point(12, 44);
+            button5.Location = new Point(12, 60);
             button5.Name = "button5";
             button5.Size = new Size(234, 53);
             button5.TabIndex = 4;
@@ -110,7 +110,7 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(308, 29);
+            label1.Location = new Point(308, 42);
             label1.Name = "label1";
             label1.Size = new Size(77, 15);
             label1.TabIndex = 7;
