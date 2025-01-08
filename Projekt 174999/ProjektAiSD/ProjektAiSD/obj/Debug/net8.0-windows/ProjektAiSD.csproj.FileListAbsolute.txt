@@ -1,0 +1,16 @@
+C:\Users\MARCEL\Desktop\Projekt 174999\ProjektAiSD\ProjektAiSD\bin\Debug\net8.0-windows\ProjektAiSD.exe
+C:\Users\MARCEL\Desktop\Projekt 174999\ProjektAiSD\ProjektAiSD\bin\Debug\net8.0-windows\ProjektAiSD.deps.json
+C:\Users\MARCEL\Desktop\Projekt 174999\ProjektAiSD\ProjektAiSD\bin\Debug\net8.0-windows\ProjektAiSD.runtimeconfig.json
+C:\Users\MARCEL\Desktop\Projekt 174999\ProjektAiSD\ProjektAiSD\bin\Debug\net8.0-windows\ProjektAiSD.dll
+C:\Users\MARCEL\Desktop\Projekt 174999\ProjektAiSD\ProjektAiSD\bin\Debug\net8.0-windows\ProjektAiSD.pdb
+C:\Users\MARCEL\Desktop\Projekt 174999\ProjektAiSD\ProjektAiSD\obj\Debug\net8.0-windows\ProjektAiSD.Form1.resources
+C:\Users\MARCEL\Desktop\Projekt 174999\ProjektAiSD\ProjektAiSD\obj\Debug\net8.0-windows\ProjektAiSD.csproj.GenerateResource.cache
+C:\Users\MARCEL\Desktop\Projekt 174999\ProjektAiSD\ProjektAiSD\obj\Debug\net8.0-windows\ProjektAiSD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCEL\Desktop\Projekt 174999\ProjektAiSD\ProjektAiSD\obj\Debug\net8.0-windows\ProjektAiSD.AssemblyInfoInputs.cache
+C:\Users\MARCEL\Desktop\Projekt 174999\ProjektAiSD\ProjektAiSD\obj\Debug\net8.0-windows\ProjektAiSD.AssemblyInfo.cs
+C:\Users\MARCEL\Desktop\Projekt 174999\ProjektAiSD\ProjektAiSD\obj\Debug\net8.0-windows\ProjektAiSD.csproj.CoreCompileInputs.cache
+C:\Users\MARCEL\Desktop\Projekt 174999\ProjektAiSD\ProjektAiSD\obj\Debug\net8.0-windows\ProjektAiSD.dll
+C:\Users\MARCEL\Desktop\Projekt 174999\ProjektAiSD\ProjektAiSD\obj\Debug\net8.0-windows\refint\ProjektAiSD.dll
+C:\Users\MARCEL\Desktop\Projekt 174999\ProjektAiSD\ProjektAiSD\obj\Debug\net8.0-windows\ProjektAiSD.pdb
+C:\Users\MARCEL\Desktop\Projekt 174999\ProjektAiSD\ProjektAiSD\obj\Debug\net8.0-windows\ProjektAiSD.genruntimeconfig.cache
+C:\Users\MARCEL\Desktop\Projekt 174999\ProjektAiSD\ProjektAiSD\obj\Debug\net8.0-windows\ref\ProjektAiSD.dll

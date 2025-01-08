@@ -1,0 +1,10 @@
+Gracz 1: As Pik; 9 Karo; 3 Pik; 7 Pik; Królowa Pik; 
+
+Gracz 2: 3 Trefl; Król Karo; 5 Pik; 5 Kier; Walet Karo; 
+
+Gracz 3: 9 Pik; 5 Trefl; 7 Karo; 5 Karo; 7 Kier; 
+
+Gracz 4: 8 Pik; As Karo; 4 Trefl; Król Trefl; 4 Karo; 
+
+Gracz 5: 10 Trefl; 6 Trefl; Król Pik; Królowa Kier; Walet Trefl; 
+
