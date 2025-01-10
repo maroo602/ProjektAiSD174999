@@ -37,6 +37,10 @@
             listBox1 = new ListBox();
             textBox1 = new TextBox();
             label1 = new Label();
+            pictureBox2 = new PictureBox();
+            pictureBox1 = new PictureBox();
+            ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
             // button1
@@ -73,7 +77,7 @@
             // 
             button4.Location = new Point(308, 340);
             button4.Name = "button4";
-            button4.Size = new Size(409, 53);
+            button4.Size = new Size(382, 53);
             button4.TabIndex = 3;
             button4.Text = "Eksportuj do txt";
             button4.UseVisualStyleBackColor = true;
@@ -95,7 +99,7 @@
             listBox1.ItemHeight = 15;
             listBox1.Location = new Point(308, 120);
             listBox1.Name = "listBox1";
-            listBox1.Size = new Size(409, 214);
+            listBox1.Size = new Size(382, 214);
             listBox1.TabIndex = 5;
             listBox1.SelectedIndexChanged += listBox1_SelectedIndexChanged;
             // 
@@ -117,11 +121,29 @@
             label1.Text = "Liczba graczy";
             label1.Click += label1_Click;
             // 
+            // pictureBox2
+            // 
+            pictureBox2.Location = new Point(414, 0);
+            pictureBox2.Name = "pictureBox2";
+            pictureBox2.Size = new Size(276, 114);
+            pictureBox2.TabIndex = 9;
+            pictureBox2.TabStop = false;
+            // 
+            // pictureBox1
+            // 
+            pictureBox1.Location = new Point(696, 0);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(101, 450);
+            pictureBox1.TabIndex = 10;
+            pictureBox1.TabStop = false;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(pictureBox1);
+            Controls.Add(pictureBox2);
             Controls.Add(label1);
             Controls.Add(textBox1);
             Controls.Add(listBox1);
@@ -133,6 +155,8 @@
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form1";
             Text = "Form1";
+            ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -147,5 +171,7 @@
         private ListBox listBox1;
         private TextBox textBox1;
         private Label label1;
+        private PictureBox pictureBox2;
+        private PictureBox pictureBox1;
     }
 }

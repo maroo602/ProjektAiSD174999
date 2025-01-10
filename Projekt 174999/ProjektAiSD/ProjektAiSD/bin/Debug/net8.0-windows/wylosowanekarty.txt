@@ -1,10 +1,20 @@
-Gracz 1: 6 Kier; Król Kier; 6 Pik; 2 Pik; 7 Karo; 
+Gracz 1: 8 Pik; As Pik; 6 Pik; Walet Trefl; 5 Kier;  Układ pokerowy: Wysoka Karta.
 
-Gracz 2: Królowa Kier; Walet Kier; 10 Kier; 5 Karo; 2 Trefl; 
+Gracz 2: Królowa Pik; 4 Kier; 3 Trefl; Królowa Karo; Król Karo;  Układ pokerowy: Para.
 
-Gracz 3: 4 Karo; Walet Karo; 8 Karo; 5 Trefl; 2 Karo; 
+Gracz 3: 9 Trefl; 3 Pik; 7 Trefl; 2 Trefl; As Karo;  Układ pokerowy: Wysoka Karta.
 
-Gracz 4: 6 Trefl; 3 Pik; 3 Trefl; 10 Trefl; Król Karo; 
+Gracz 4: Królowa Kier; Król Pik; 2 Kier; 7 Karo; 10 Trefl;  Układ pokerowy: Wysoka Karta.
 
-Gracz 5: 4 Pik; Walet Trefl; Królowa Pik; 8 Trefl; 9 Trefl; 
+Gracz 5: 10 Karo; 9 Kier; 2 Pik; 5 Trefl; 7 Pik;  Układ pokerowy: Wysoka Karta.
+
+Gracz 6: 3 Karo; 4 Trefl; Walet Kier; 9 Karo; 7 Kier;  Układ pokerowy: Wysoka Karta.
+
+Gracz 7: Walet Pik; Walet Karo; Król Kier; As Trefl; 5 Karo;  Układ pokerowy: Para.
+
+Gracz 8: Królowa Trefl; 2 Karo; 3 Kier; 4 Karo; 6 Kier;  Układ pokerowy: Wysoka Karta.
+
+Gracz 9: 6 Karo; 5 Pik; 10 Pik; 6 Trefl; 9 Pik;  Układ pokerowy: Para.
+
+Gracz 10: 8 Kier; 10 Kier; 8 Karo; Król Trefl; As Kier;  Układ pokerowy: Para.
 
